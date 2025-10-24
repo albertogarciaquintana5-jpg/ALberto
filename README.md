@@ -1,5 +1,5 @@
 # ALberto
-Hola soy ALberto tengo 19 años, aquí subo todos mis trabajos y proyecto de mi curso 2º DAW, por cada copia 5€
+Hola soy ALberto tengo 19 años, aquí subo todos mis trabajos y proyecto. Soy Alguien paciente, trabajador y  nunca me rindo.
 <div align="center">
   <h1 style="color:#4CAF50;">🌿 ¡Bienvenid@ a mi repositorio! 🌿</h1>
   
