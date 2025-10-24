@@ -8,7 +8,7 @@ Hola soy ALberto tengo 19 años, aquí subo todos mis trabajos y proyecto de mi 
     Aquí encontrarás código, ideas.
   </p>
 
-  <img src="https://media.tenor.com/2fU6zWZxqK0AAAAC/rowlet-pokemon.gif" 
+  <img src="https://media.tenor.com/RKuZJR7oQlQAAAAM/rowlet-pokemon.gif" 
        alt="Rowlet feliz" 
        width="250" 
        style="border-radius:15px; margin:20px 0;" />
